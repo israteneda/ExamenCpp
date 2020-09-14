@@ -15,4 +15,4 @@ referencia a un array de 10 punteros, luego a un array de 10 enteros
 
     return EXIT_SUCCESS;
 }
-
+S
