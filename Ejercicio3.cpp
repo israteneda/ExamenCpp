@@ -1,8 +1,8 @@
 /*
     Ejercicio
 */
-#include <iostream>
-
+/*#include <iostream>
+#include <utility>
 struct Ejercicio3
 {
     Ejercicio3 leer();
@@ -10,11 +10,18 @@ struct Ejercicio3
     void escribir(Ejercicio3);
 };
 
-void Method( <concept> valor)
+void Method( concept valor)
 {
 
-}
+};
 
 Ejercicio3 leer(){
     return Ejercicio3;
 }
+
+*/
+
+
+
+
+
